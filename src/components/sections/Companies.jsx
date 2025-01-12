@@ -5,17 +5,17 @@ export default function Companies() {
     {
       name: "APIFRAME",
       link: "https://www.apiframe.pro/",
-      image: "public/logoAPIFRAME.png "
+      image: "/logoAPIFRAME.png "
     },
     {
       name: "Buildbrothers",
       link: "https://buildbrothers.com/",
-      image: " public/logobuildbrothers.png"
+      image: "/logobuildbrothers.png"
     },
     {
       name: "Spark Innovation Hub",
       link: "https://sparkinnovationhub.com/",
-      image: "public/logo SIH.webp "
+      image: "/logo SIH.webp "
     }
   ];
 
