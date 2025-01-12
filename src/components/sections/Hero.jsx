@@ -38,7 +38,7 @@ export default function Hero() {
         <div className="md:w-1/3 flex justify-center mt-10 md:mt-0">
           <div className="w-64 h-64 rounded-full overflow-hidden bg-gray-200">
             <img
-              src= "src/assets/photo.JPG"
+              src= "public/photo.JPG"
               alt="Profile"
               className="w-full h-full object-cover"
             />
