@@ -1,7 +1,5 @@
 # Welcome to My Portfolio Project!
 
-![cover](./cover.png)
-
 Hello there! 👋
 
 Thank you for checking out my portfolio project. This repository contains all the necessary files to set up my portfolio locally on your machine. Follow the instructions below to get started.
