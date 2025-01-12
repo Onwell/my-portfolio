@@ -7,32 +7,32 @@ const ProfileShowcase = () => {
   const profiles = [
     {
       platform: "Substack",
-      username: "@wisdomnwokocha",
-      link: "https://substack.com/@wisdomnwokocha",
+      username: "@Phanhie",
+      link: "https://substack.com/@phanhie",
       description: "Join and be part of my journey of life through my newsletter!",
       color: "from-purple-500 to-blue-500",
       icon: "🗞️"
     },
     {
       platform: "Hashnode",
-      username: "@wise4rmgod",
-      link: "https://wise4rmgod.hashnode.dev/",
+      username: "@Phanhie01",
+      link: "https://hashnode.com/@Phanhie01",
       description: "Cloud & DevOps tutorials, best practices, and insights",
       color: "from-purple-500 to-blue-500",
       icon: "🌐"
     },
     {
       platform: "Dev.to",
-      username: "@wise4rmgod",
-      link: "https://dev.to/wise4rmgod",
+      username: "@Phanhie",
+      link: "https://dev.to/phanhie",
       description: "Web development articles and coding tutorials",
       color: "from-black to-gray-800",
       icon: "👨‍💻"
     },
     {
-      platform: "Hackernoon",
-      username: "@wise4rmgod",
-      link: "https://hackernoon.com/u/wise4rmgod",
+      platform: "Medium",
+      username: "@Phanhie",
+      link: "https://medium.com/@Phanhie",
       description: "Deep tutorials on tech trends and programming",
       color: "from-green-500 to-emerald-700",
       icon: "🚀"
@@ -40,7 +40,7 @@ const ProfileShowcase = () => {
     {
       platform: "Resume",
       username: "Download PDF",
-      link: "/resume.pdf",
+      link: "https://docs.google.com/document/d/1FIlLGqiG0hRq-n4Zl0k18uhfhpKDSU5x6LF8oHJR530/edit?tab=t.0",
       description: "View my full professional experience and skills",
       color: "from-red-500 to-orange-500",
       icon: "📄"

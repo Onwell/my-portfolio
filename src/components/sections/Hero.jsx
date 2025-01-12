@@ -24,23 +24,21 @@ export default function Hero() {
           />
           <br />
           <p className="text-2xl text-gray-200">
-            Hello, World! 👋 I'm Wisdom ⚡️
+          Hi There! 👋  I'm Stephanie ⚡️
           </p>
           <br />
           <p className="text-xl text-gray-300">
-            I'm known as the "Docs Guru." With over five years of experience as a Technical Writer specializing in Developer and API Documentation, 
-            <br />  <br />
-           I work with companies worldwide to showcase their innovative solutions to diverse audiences. 
-            My expertise lies in collaborating with SaaS providers. 
+          I specialize in simplifying complex technical concepts and I am experienced in creating API, product and developer documentation. My attention to detail ensures top-notch work delivered on time.
+          
             <br /> <br />
-            I am passionate about docs-as-code, open source, workflow optimization, API documentation, style guide development, and creating engaging visual resources.
+            Let's transform your ideas into reality!!!
           </p>
         </div>
         {/* Right Image */}
         <div className="md:w-1/3 flex justify-center mt-10 md:mt-0">
           <div className="w-64 h-64 rounded-full overflow-hidden bg-gray-200">
             <img
-              src="/my-cover-image.jpg"
+              src= "src/assets/photo.JPG"
               alt="Profile"
               className="w-full h-full object-cover"
             />

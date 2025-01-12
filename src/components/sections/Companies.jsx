@@ -3,25 +3,20 @@ import React from 'react';
 export default function Companies() {
   const companies = [
     {
-      name: "Nylas",
-      link: "https://developer.nylas.com/",
-      image: "/new_nylas_logo_blue.png"
+      name: "APIFRAME",
+      link: "https://www.apiframe.pro/",
+      image: "src/assets/logoAPIFRAME.png"
     },
     {
-      name: "Rootstock",
-      link: "https://dev.rootstock.io/",
-      image: "/rootstock.png"
+      name: "Buildbrothers",
+      link: "https://buildbrothers.com/",
+      image: "src/assets/logobuildbrothers.png "
     },
     {
-      name: "Accumulate",
-      link: "https://docs.accumulatenetwork.io/accumulate",
-      image: "/accumulate-logo.png"
-    },
-    {
-      name: "Builtin",
-      link: "https://builtin.com/articles/technical-writing-key-product-success",
-      image: "/built-in-1.jpg"
-    },
+      name: "Sark Innovation Hub",
+      link: "https://sparkinnovationhub.com/",
+      image: "src/assets/logo SIH.webp "
+    }
   ];
 
   return (

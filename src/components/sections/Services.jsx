@@ -7,13 +7,13 @@ export default function Services() {
       title: "API Documentation",
       description: "I create comprehensive API references and guides using industry-standard tools like OpenAPI, Swagger, and Postman.",
       icon: <Code className="w-8 h-8 mb-4 text-purple-400" />,
-      stats: "5+ APIs documented"
+      stats: "2+ APIs documented"
     },
     {
       title: "Technical Content",
-      description: "I author detailed technical guides, tutorials, and articles focused on developer tools and cloud technologies.",
+      description: "I author detailed technical guides, tutorials, and articles focused on developer tools and technologies.",
       icon: <Files className="w-8 h-8 mb-4 text-blue-400" />,
-      stats: "70+ articles published"
+      stats: "20+ articles published"
     },
     {
       title: "Documentation Strategy",
@@ -23,9 +23,9 @@ export default function Services() {
     },
     {
       title: "Technical Mentoring",
-      description: "I conduct recorded technical classes on YouTube, helping developers master documentation and technical writing.",
+      description: "I conduct recorded technical classes on Tiktok and YouTube, helping developers master documentation and technical writing.",
       icon: <Users className="w-8 h-8 mb-4 text-yellow-400" />,
-      stats: "100+ students mentored"
+      stats: "10+ students mentored"
     }
   ];
 

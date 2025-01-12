@@ -122,7 +122,7 @@ const SkillsMarquee = () => {
           </svg>
         )
       },
-      // Technologies
+      // Technologies I've used
       {
         name: 'YAML',
         category: 'Technologies',
