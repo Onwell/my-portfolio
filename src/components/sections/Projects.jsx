@@ -82,7 +82,7 @@ const ProjectSection = ({ title, projects, isEven }) => {
 const Projects = () => {
   const projectCategories = {
     technicalArticles: {
-      title: "Technical Articles",
+      title: "Tech Articles",
       projects: [
         {
           title: "What happens when you type https://www.google.com in your browser and press Enter?",
@@ -106,7 +106,7 @@ const Projects = () => {
       ],
     },
     userGuides: {
-      title: "User Guides",
+      title: "Repositories",
       projects: [
         {
           title: "How to center a div in CSS",
@@ -122,134 +122,7 @@ const Projects = () => {
         }
       ],
     },
-    // apiDocumentation: {
-    //   title: "API Documentation",
-    //   projects: [
-    //     {
-    //       title: "C-One API Reference",
-    //       description: "Comprehensive API documentation for C-One platform, including authentication and endpoint details.",
-    //       tags: ["API", "Technical Writing", "ReadMe"],
-    //       links: { preview: "https://c-one.readme.io/reference/getting-started-with-your-api" },
-    //     },
-    //     {
-    //       title: "Nylas API Reference",
-    //       description: "Comprehensive API documentation for Nylas platform, including authentication, endpoints, and integration guides.",
-    //       tags: ["API", "SDK", "Email"],
-    //       links: { preview: "https://developer.nylas.com/docs/api/" },
-    //     },
-    //     {
-    //       title: "Custom API Documentation",
-    //       description: "Detailed Postman collection documentation for custom API endpoints and integration scenarios.",
-    //       tags: ["API", "Postman", "Integration"],
-    //       links: { preview: "https://documenter.getpostman.com/view/1835497/UzBnrSFB#intro" },
-    //     },
-    //     {
-    //       title: "Orchestro AI API",
-    //       description: "Developer documentation for Orchestro AI platform APIs and integration patterns.",
-    //       tags: ["AI", "API", "ML"],
-    //       links: { preview: "https://developer.orchestro.ai/introduction" },
-    //     },
-    //     {
-    //       title: "DummyAPI Documentation",
-    //       description: "Swagger documentation for DummyAPI showcasing RESTful endpoints and usage examples.",
-    //       tags: ["API", "Swagger", "OpenAPI"],
-    //       links: { preview: "https://app.swaggerhub.com/apis-docs/wise4rmgod/DummyAPI/0.1" },
-    //     }
-    //   ],
-    // },
-    // documentationSites: {
-    //   title: "Developer Documentation",
-    //   projects: [
-    //     {
-    //       title: "NeuBird AI API Guide",
-    //       description: "Quick start guide and API documentation for NeuBird AI platform integration.",
-    //       tags: ["AI", "API", "Documentation"],
-    //       links: { preview: "https://help.neubird.ai/introduction/quick_start/" },
-    //     },
-    //     {
-    //       title: "Technical Writing Masterclass",
-    //       description: "Educational platform for technical writing best practices and guidelines.",
-    //       tags: ["Technical Writing", "Education"],
-    //       links: { preview: "https://technicalwritingmp.com/" },
-    //     },
-    //     {
-    //       title: "Interswitch Developer Docs",
-    //       description: "Developer documentation for Interswitch payment integration and services.",
-    //       tags: ["Payments", "Integration", "API"],
-    //       links: { preview: "https://docs.interswitchgroup.com/v1.1/docs/home" },
-    //     },
-    //     {
-    //       title: "Accumulate Network Docs",
-    //       description: "Technical documentation for the Accumulate blockchain network protocols and APIs.",
-    //       tags: ["Blockchain", "Documentation"],
-    //       links: { preview: "https://docs.accumulatenetwork.io" },
-    //     },
-    //     {
-    //       title: "Nylas Developer Portal",
-    //       description: "Complete developer documentation for Nylas email, calendar, and contacts APIs.",
-    //       tags: ["API", "Integration", "Email"],
-    //       links: { preview: "https://developer.nylas.com" },
-    //     },
-    //     {
-    //       title: "Jetpack Compose Tutorial",
-    //       description: "Comprehensive tutorial for Android development with Jetpack Compose.",
-    //       tags: ["Android", "Kotlin", "Mobile"],
-    //       links: { preview: "https://wise4rmgod.github.io/Jetpack-Compose-Tutorial/" },
-    //     },
-    //     {
-    //       title: "AI Assessment Tool",
-    //       description: "Documentation portal for AI assessment reporting tool with comprehensive guides and examples.",
-    //       tags: ["AI", "Documentation", "Assessment"],
-    //       links: { preview: "https://www.aiat.report/report/about" },
-    //     },
-    //     {
-    //       title: "Blockchain Beginner Guide",
-    //       description: "Educational resource for blockchain development fundamentals.",
-    //       tags: ["Blockchain", "Tutorial", "Web3"],
-    //       links: { preview: "https://beginnerblockchain.netlify.app" },
-    //     },
-    //     {
-    //       title: "Rootstock Developer Portal",
-    //       description: "Developer documentation for building on the Rootstock blockchain platform.",
-    //       tags: ["Blockchain", "Smart Contracts", "Web3"],
-    //       links: { preview: "https://dev.rootstock.io" },
-    //     }
-    //   ],
-    // },
-    // blockchainArticles: {
-    //   title: "Blockchain Office Hours",
-    //   projects: [
-    //     {
-    //       title: "The Graph Indexer Office Hours #160",
-    //       description: "Summary and insights from The Graph's indexer office hours session, covering recent updates and community discussions.",
-    //       tags: ["Blockchain", "The Graph", "Web3"],
-    //       links: { preview: "https://blog.pinax.network/events/the-graph-indexer-office-hours-160/" },
-    //     },
-    //     {
-    //       title: "The Graph Indexer Office Hours #159",
-    //       description: "Detailed coverage of The Graph's indexer office hours, including technical discussions and network updates.",
-    //       tags: ["Blockchain", "The Graph", "Web3"],
-    //       links: { preview: "https://blog.pinax.network/events/the-graph-indexer-office-hours-159/" },
-    //     }
-    //   ],
-    // },
-    // openSourceContributions: {
-    //   title: "Open Source Contributions",
-    //   projects: [
-    //     {
-    //       title: "Go Ethereum (Geth) Documentation",
-    //       description: "Contributed to the official documentation for Go Ethereum (Geth), the most popular Ethereum implementation.",
-    //       tags: ["Ethereum", "Blockchain", "Go"],
-    //       links: { preview: "https://geth.ethereum.org/docs/getting-started" },
-    //     },
-    //     {
-    //       title: "Flow Blockchain Documentation",
-    //       description: "Documentation contributions for Flow blockchain platform, covering developer guides and protocol specifications.",
-    //       tags: ["Flow", "Blockchain", "Web3"],
-    //       links: { preview: "https://developers.flow.com/" },
-    //     }
-    //   ],
-    // },
+    //empty space
   };
 
   return (

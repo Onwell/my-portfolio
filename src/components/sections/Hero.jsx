@@ -9,11 +9,11 @@ export default function Hero() {
         <div className="font-mono md:w-2/3">
           <TypeAnimation
             sequence={[
-              'Technical Documentation Engineer ✍🏾',
+              'Web Developer ✍🏾',
               2000,
-              'Building Developer Experiences ✍🏾',
+              'Graphic Designer ✍🏾',
               2000,
-              'Creating API Documentation ✍🏾',
+              'Tech Writer ✍🏾',
               2000,
             ]}
             wrapper="h1"
@@ -24,7 +24,7 @@ export default function Hero() {
           />
           <br />
           <p className="text-2xl text-gray-200">
-          Hi There! 👋  I'm Stephanie ⚡️
+          Hi There! 👋  I'm Onwell ⚡️
           </p>
           <br />
           <p className="text-xl text-gray-300">

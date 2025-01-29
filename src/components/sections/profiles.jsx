@@ -6,36 +6,20 @@ const ProfileShowcase = () => {
 
   const profiles = [
     {
-      platform: "Substack",
-      username: "@Phanhie",
-      link: "https://substack.com/@phanhie",
+      platform: "Github",
+      username: "@Onwell",
+      link: "https://github.com/Onwell/",
       description: "Join and be part of my journey of life through my newsletter!",
       color: "from-purple-500 to-blue-500",
       icon: "🗞️"
     },
     {
-      platform: "Hashnode",
-      username: "@Phanhie01",
-      link: "https://hashnode.com/@Phanhie01",
+      platform: "LinkedIn",
+      username: "@OnwellMasaraure",
+      link: "https://www.linkedin.com/in/onwell-masaraure-b14200130/",
       description: "Cloud & DevOps tutorials, best practices, and insights",
       color: "from-purple-500 to-blue-500",
       icon: "🌐"
-    },
-    {
-      platform: "Dev.to",
-      username: "@Phanhie",
-      link: "https://dev.to/phanhie",
-      description: "Web development articles and coding tutorials",
-      color: "from-black to-gray-800",
-      icon: "👨‍💻"
-    },
-    {
-      platform: "Medium",
-      username: "@Phanhie",
-      link: "https://medium.com/@Phanhie",
-      description: "Deep tutorials on tech trends and programming",
-      color: "from-green-500 to-emerald-700",
-      icon: "🚀"
     },
     {
       platform: "Resume",

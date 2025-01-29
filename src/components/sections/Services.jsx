@@ -4,22 +4,22 @@ import { Code, BookOpen, Files, Users } from 'lucide-react';
 export default function Services() {
   const services = [
     {
-      title: "API Documentation",
+      title: "Wed Designing",
       description: "I create comprehensive API references and guides using industry-standard tools like OpenAPI, Swagger, and Postman.",
       icon: <Code className="w-8 h-8 mb-4 text-purple-400" />,
-      stats: "2+ APIs documented"
+      stats: "10+ Websites created"
     },
     {
-      title: "Technical Content",
+      title: "Tech Writer",
       description: "I author detailed technical guides, tutorials, and articles focused on developer tools and technologies.",
       icon: <Files className="w-8 h-8 mb-4 text-blue-400" />,
-      stats: "20+ articles published"
+      stats: "10+ articles published"
     },
     {
-      title: "Documentation Strategy",
+      title: "Graphic Designer",
       description: "I lead documentation initiatives, including content organization, style guides, and documentation workflows.",
       icon: <BookOpen className="w-8 h-8 mb-4 text-green-400" />,
-      stats: "5+ documentation portals"
+      stats: "50+ designs"
     },
     {
       title: "Technical Mentoring",
