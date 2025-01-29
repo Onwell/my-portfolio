@@ -5,27 +5,27 @@ export default function Services() {
   const services = [
     {
       title: "Wed Designing",
-      description: "I create comprehensive API references and guides using industry-standard tools like OpenAPI, Swagger, and Postman.",
+      description: "I craft visually appealing and user-friendly websites, ensuring seamless functionality and responsive design.",
       icon: <Code className="w-8 h-8 mb-4 text-purple-400" />,
-      stats: "10+ Websites created"
+      stats: "10+ Websites developed"
     },
     {
       title: "Tech Writer",
-      description: "I author detailed technical guides, tutorials, and articles focused on developer tools and technologies.",
+      description: "I create clear, concise, and engaging technical content, making complex concepts easy to understand.",
       icon: <Files className="w-8 h-8 mb-4 text-blue-400" />,
       stats: "10+ articles published"
     },
     {
       title: "Graphic Designer",
-      description: "I lead documentation initiatives, including content organization, style guides, and documentation workflows.",
+      description: "I design captivating visuals, branding materials, and marketing assets that leave a lasting impression.",
       icon: <BookOpen className="w-8 h-8 mb-4 text-green-400" />,
       stats: "50+ designs"
     },
     {
-      title: "Technical Mentoring",
-      description: "I conduct recorded technical classes on Tiktok and YouTube, helping developers master documentation and technical writing.",
+      title: "Back-End Development",
+      description: "I design and implement robust server-side solutions using NodeJS, databases, and API integration for optimal user experiences.",
       icon: <Users className="w-8 h-8 mb-4 text-yellow-400" />,
-      stats: "10+ students mentored"
+      stats: "10+ websites developed"
     }
   ];
 
@@ -33,8 +33,8 @@ export default function Services() {
     <section className="py-20 px-6 bg-[#1a1f2e]">
       <div className="max-w-6xl mx-auto">
         <div className="text-center mb-16">
-          <h2 className="text-3xl font-bold mb-4">My Expertise 🎯</h2>
-          <p className="text-gray-400 text-lg">A summary of my documentation and technical writing expertise</p>
+          <h2 className="text-3xl font-bold mb-4">My Skillset 🎯</h2>
+          <p className="text-gray-400 text-lg">An overview of my proficiency in web development and technical writing.</p>
         </div>
 
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-5">

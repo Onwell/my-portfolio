@@ -28,10 +28,10 @@ export default function Hero() {
           </p>
           <br />
           <p className="text-xl text-gray-300">
-          I specialize in simplifying complex technical concepts and I am experienced in creating API, product and developer documentation. My attention to detail ensures top-notch work delivered on time.
+          I specialize in cutting-edge web development, crafting dynamic and responsive applications using tools like ReactJS, NodeJS, Git, HTML, and more. Beyond coding, I bring creativity to life as a graphic designer, delivering compelling branding and eye-catching flyer designs that leave a lasting impression.
           
             <br /> <br />
-            Let's transform your ideas into reality!!!
+            Bring your ideas to life with creativity and innovation!
           </p>
         </div>
         {/* Right Image */}

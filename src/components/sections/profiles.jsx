@@ -9,23 +9,23 @@ const ProfileShowcase = () => {
       platform: "Github",
       username: "@Onwell",
       link: "https://github.com/Onwell/",
-      description: "Join and be part of my journey of life through my newsletter!",
+      description: "Explore my open-source projects and contributions! Join me in building, learning, and sharing.",
       color: "from-purple-500 to-blue-500",
-      icon: "🗞️"
+      icon: "🐙"
     },
     {
       platform: "LinkedIn",
       username: "@OnwellMasaraure",
       link: "https://www.linkedin.com/in/onwell-masaraure-b14200130/",
-      description: "Cloud & DevOps tutorials, best practices, and insights",
+      description: "Connect with me to stay updated and network with like-minded professionals.",
       color: "from-purple-500 to-blue-500",
-      icon: "🌐"
+      icon: "🔗"
     },
     {
       platform: "Resume",
       username: "Download PDF",
       link: "https://docs.google.com/document/d/1FIlLGqiG0hRq-n4Zl0k18uhfhpKDSU5x6LF8oHJR530/edit?tab=t.0",
-      description: "View my full professional experience and skills",
+      description: "Check out my full professional experience and skills. See my career achievements over the years.",
       color: "from-red-500 to-orange-500",
       icon: "📄"
     }
