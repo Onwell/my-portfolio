@@ -11,7 +11,7 @@ export default function Navbar() {
   return (
     <nav className="p-6 relative">
       <div className="max-w-6xl mx-auto flex justify-between items-center">
-        <h1 className="text-2xl font-bold text-444554">ONWELL <br/> MASARAURE</h1>
+        <h1 className="text-2xl font-bold text-444554">ONWELL MASARAURE</h1>
         
         {/* Desktop Navigation */}
         <div className="hidden md:flex space-x-4">
