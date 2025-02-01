@@ -18,7 +18,7 @@ export default function Hero() {
             ]}
             wrapper="h1"
             speed={50}
-            className="text-5xl font-bold mb-6"
+            className="text-3xl font-bold mb-6"
             repeat={Infinity}
             cursor={true}
           />
