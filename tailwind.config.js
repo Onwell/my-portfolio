@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {
       colors: {
-        eerieBlack: "#172121",
+        eerieBlack: "#000",
         charcoal: "#444554",
         taupeGray: "#7F7B82",
         roseQuartz: "#BFACB5",

@@ -105,33 +105,6 @@ const Projects = () => {
        
       ],
     },
-    userGuides: {
-      title: "Repositories",
-      projects: [
-        {
-          title: "Pepo 1",
-          description: "Comprehensive tutorial on centering a DIV in CSS",
-          tags: ["CSS", "HTML"],
-          links: { preview: "https://medium.com/@Phanhie/how-to-center-a-div-in-css-4dff426256fa" },
-        },
-        {
-          title: "Repo2",
-          description: "Step-by-step guide for getting started with APIs.",
-          tags: ["Beginner", "API", "SOftware Dev"],
-          links: { preview: "https://medium.com/@Phanhie/apis-a-beginners-guide-cd02853f105e" },
-        },
-        {
-          title: "My GitHub Repository",
-          description: "Explore my public repositories and open-source projects on GitHub.",
-          tags: ["GitHub", "Open Source", "Repositories"],
-          links: { 
-            preview: "https://github.com/your-username", // Replace with your GitHub profile or repository link
-            code: "https://github.com/your-username/your-repository", // Replace with a specific repository link if needed
-          },
-        },
-      ],
-    },
-    //empty space
   };
 
   return (
