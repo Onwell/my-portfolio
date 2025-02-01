@@ -22,10 +22,10 @@ export default function Services() {
       stats: "50+ designs"
     },
     {
-      title: "Back-End Development",
-      description: "I design and implement robust server-side solutions using NodeJS, databases, and API integration for optimal user experiences.",
+      title: "UI/UX",
+      description: "I craft enganing UX designs using Figma, wher user-centered principles meet pixel perfect precision",
       icon: <Users className="w-8 h-8 mb-4 text-yellow-400" />,
-      stats: "10+ websites developed"
+      stats: "10+ Designs"
     }
   ];
 
@@ -33,7 +33,7 @@ export default function Services() {
     <section className="py-20 px-6 bg-[#1a1f2e]">
       <div className="max-w-6xl mx-auto">
         <div className="text-center mb-16">
-          <h2 className="text-3xl font-bold mb-4">My Skillset 🎯</h2>
+          <h2 className="text-3xl font-bold mb-4">My Skills 🎯</h2>
           <p className="text-gray-400 text-lg">An overview of my proficiency in web development and technical writing.</p>
         </div>
 
